@@ -3,7 +3,7 @@ libloader==0.21
 platform-utils==0.41
 pygame==1.9.6
 pyperclip==1.7.0
-pywin32==227
+pywin32==301
 sound-lib==0.82
 urllib3==1.25.7
 winpaths==0.2
